@@ -1,18 +1,14 @@
+
 # Qu'est-ce qu'un framework ?
 
-  **L'objectif d'un framework**
-  
-L'objectif de ce chapitre n'est pas de vous fournir toutes les clés pour concevoir un framework, 
-mais suffisamment pour pouvoir en utiliser un. On exposera rapidement l'intérêt, les avantages et 
-les inconvénients de l'utilisation d'un tel outil.
 
   **Définition**
   
 Le mot « framework » provient de l'anglais « frame » qui veut dire « cadre » en français, et « work » 
-qui signifie « travail ». Littéralement, c'est donc un « cadre de travail ». Vous voilà bien avancés, 
-hein ?  Concrètement, c'est un ensemble de composants qui sert à créer les fondations, l'architecture et 
-les grandes lignes d'un logiciel. Il existe des centaines de frameworks couvrant la plupart des langages 
-de programmation. Ils sont destinés au développement de sites web ou bien à la conception de logiciels.
+qui signifie « travail ». Littéralement, c'est donc un « cadre de travail ».C'est un ensemble de composants 
+qui sert à créer les fondations, l'architecture et les grandes lignes d'un logiciel.
+Il existe des centaines de frameworks couvrant la plupart des langages de programmation. Ils sont destinés 
+au développement de sites web ou bien à la conception de logiciels.
 
 Un framework est une boîte à outils conçue par un ou plusieurs développeurs à destination d'autres développeurs. 
 Contrairement à certains scripts tels que WordPress, Dotclear ou autres, un framework n'est pas utilisable tel quel. 
