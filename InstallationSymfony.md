@@ -1,9 +1,10 @@
 
-
 # Installation Symfony 
 
 
 require https://getcomposer.org/download/
+
+https://symfony.com/doc/current/setup.html
 
 **1)Insérer le chemin sur PATH** 
 
