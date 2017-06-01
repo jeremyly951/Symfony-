@@ -1,14 +1,22 @@
-  **Liste des répertoires**
+
+**Liste des répertoires**
 
 
-apps/  	Contient les différentes applications du projet
-cache/ 	Contient tous les fichiers de cache
-config/ 	Fichiers de configuration du projet
-lib/ 	Répertoire où sont stockés les librairies, classes PHP, les modèles...
-log/ 	Traces et debug du framework
-plugins/ Plugins installés dans le projet
-test/ 	Répertoire contenant les tests unitaires / fonctionnels
-web/ 	Le répertoire web sur lequel pointe notre domaine.
+* apps/  	Contient les différentes applications du projet
+
+* cache/ 	Contient tous les fichiers de cache
+
+* config/ 	Fichiers de configuration du projet
+
+* lib/ 	Répertoire où sont stockés les librairies, classes PHP, les modèles...
+
+* log/ 	Traces et debug du framework
+
+* plugins/ Plugins installés dans le projet
+
+* test/ 	Répertoire contenant les tests unitaires / fonctionnels
+
+* web/ 	Le répertoire web sur lequel pointe notre domaine.
 
 ---------
 
